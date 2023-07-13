@@ -1,0 +1,47 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAA//8PwPwPAPAv/8+8+/8A//LPG7IRIg8vzDyzu/8i+88AzLu7/yL7AADAvLsRIvsAADwTsvy/+wAAzLu7u7v7AADAzLu7u/sAAP+/vLu7/AD/vLvMu8sP8LzLzCL//wDAy7siAiACAL8rvMsAAAIAvyzCDAAAAADPAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ENEMY"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAODuDAAAAAAALiLCAAAAAOBC4i4MAAAA4CXi7uIAAADgJCLiwgAAAOAiIuLCAAAAyC4iIu4AAABoLCLizswAAGjI7C4i4gxghwDgQiLuzmCHAOAlIu7CdggA4CQi4sJ2iGbIIiLiwnZ2d2YsIu7CdoiIiMgiIgyGCAAAAO7MAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAA8AAAAAAAAP9vDwAAAPD/Zmb//wAAH2b/9tL9D/Bh9t0v8i8PImLf3f0sIg8gbN/d/SLCDyJi3939wiIP8Gbf3f4szv/wFvbd790i/wBvYf/m3i8PAPD/Zh/u8A8AAAD/8f8OAAAA8B//AAAAAADw8Q8AAAAAAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BAD BAT"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAA8AAAAAAAAP+/DwAAAPD/u7v//w8AH7v/+91vD/Cx+91v1u3/zLzf3/3czv/Asd/S/eZtD8y839L9zmYP8LHf3+1sxv/wHPvdbvZm/wDPsu/73W8PACLyvrvf/w8AICL/v/8AAAAgIgLwAAAAAAAiIgAAAAAAAAAiAgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BOSS"
+    },
+    "image1": {
+        "data": "hwQQABAAAADw/w/A/A8AAPD/z7y7+wAA/8y7H/uxDwDPPLMRu7/7AM/Au7u7v/sAAMC8u7u/+wAAPLMf+7H7AADMuxG7u/sAAMDMvLu7+wAA8P+7vLv8AADwu8u8yw8AAL/LzPz/AAAAvLzLzAwAAPC7zLsMDAAA8MvMzAAAAADwDAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bat boy 1"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAMDMDAAAAAAAzLvLAAAAAMDcvbsMAAAAvBG9uwwAALCrEaG7ywAAsKoRqr3LALurqqoa3cu726uqqhrRyxHdq6qqqrHLERGrEaqqusu7EbARoRG7y7C7sBuhEb3LAAAAvKrRvQwAAADAvNu9DAAAAADMu8sAAAAAAMDMDAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bad"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAMDMDAAAAAAAzLvLAAAAAMDcvbsMAAAAvBG9uwwAALA7ETG7ywAAsDMRM73LALs7MzMT3cu72zszMxPRyxHdOzMzM7HLERE7ETMzs8u7EbARMRG7y7C7sBsxEb3LAAAAvDPRvQwAAADAvNu9DAAAAADMu8sAAAAAAMDMDAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "good"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAiMyMAACAiMxERMQIAEBERERERAgAgIjMRETECAAAAIDIzIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "kkkk"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
